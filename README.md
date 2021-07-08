@@ -10,10 +10,10 @@
 
 - [Supported websites](#Sites)
 - [Features](#Features)
-- [Quick start](#Quick start)
+- [Quickstart](#Quickstart)
   - [Installation](#Installation)
   - [Running](#Running)
-- [更新日志](#更新日志)
+- [Changelog](#Changelog)
 
 ## Sites
 
@@ -45,7 +45,7 @@ This project supports downloading **1080p, VIP exclusive, VIP on-demand, and pai
 > You can only download the videos that you or your account can watch online. There is no VIP cracking/hacking function in this project.
 
 
-## Quick start
+## Quickstart
 
 ### Installation
 
